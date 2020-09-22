@@ -1,0 +1,5 @@
+extras: {}
+
+skip:
+  - indico-plugin-livesync-debug
+  - indico-plugin-vc-dummy
